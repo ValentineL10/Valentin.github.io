@@ -25,10 +25,10 @@ export default class List extends Component{
                                     <View style={{height: 25, width: 55, borderRadius: 10, backgroundColor: 'red', justifyContent: 'center', alignItems: 'center', margin: 5}}>
                                         <Text>{item.kasusPosi}</Text>
                                     </View>
-                                    <View style={{height: 25, width: 55, borderRadius: 10, backgroundColor: 'aquamarinen', justifyContent: 'center', alignItems: 'center', margin: 5}}>
+                                    <View style={{height: 25, width: 55, borderRadius: 10, backgroundColor: 'yellow', justifyContent: 'center', alignItems: 'center', margin: 5}}>
                                         <Text>{item.kasusSemb}</Text>
                                     </View>
-                                    <View style={{height: 20, width: 50, borderRadius: 10, backgroundColor: 'darkorange', justifyContent: 'center', alignItems: 'center', margin: 5}}>
+                                    <View style={{height: 20, width: 50, borderRadius: 10, backgroundColor: 'orange', justifyContent: 'center', alignItems: 'center', margin: 5}}>
                                         <Text>{item.kasusMeni}</Text>
                                     </View>
                                 </View>
